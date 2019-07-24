@@ -4,8 +4,6 @@ category: "lv1"
 permalink: /introduction
 layout: single
 date: 2019-07-22
-redirect_from:
-- /
 ---
 
 > 2019/04/30:
