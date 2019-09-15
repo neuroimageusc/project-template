@@ -1,7 +1,10 @@
 ## Getting started
 1. Create a new repository for your project/software
 1. Use git to clone the repository to local
-1. Copy the template to your local repository
+1. Copy the everything inside template to your local repository except for
+	* .git
+	* \_sass
+	* \_site
 1. Find **_config.yml** and edit
     * **title**: your project name
     * **author name**: your name
