@@ -3,7 +3,7 @@
 1. Use git to clone the repository to local
 1. Copy the everything inside template to your local repository except for
 	* .git
-	* \_sass
+	* .sass-cache
 	* \_site
 1. Find **_config.yml** and edit
     * **title**: your project name
